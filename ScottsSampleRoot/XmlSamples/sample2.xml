@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Jobs>
+	<job>
+		<Company>Verifications, Inc.</Company>
+		<Title>Web Developer III</Title>
+		<Dates>2006-2013</Dates>
+		<Experience>
+			<Accountibility>Built and supported websites for pre-employment background check systems using Cold Fusion, ASP.Net/C#, BizTalk, XML, and T-SQL.</Accountibility>
+			<Accountibility>Built and supported the integration services which allowed clients to launch background check requests from their applicant tracking system.</Accountibility>
+			<Accountibility>Also supported the application exports for the clients' HRIS system.</Accountibility>
+			<Accountibility>Majority of experience was with client implementation and production support.</Accountibility>
+			<Accountibility>Acted as the technical resource on every client implementation project that included integrating the VI system with an applicant tracking system like Taleo, SuccessFactors, PeopleFluent, or any custom applicant tracking system.</Accountibility>
+			<Accountibility>Worked directly with the clients helping them implement the integration to support them onboard their new employees.</Accountibility>
+		</Experience>
+	</job>
+	<job>
+		<Company>Carlson Companies, Inc.</Company>
+		<Title>Senior Systems Analyst</Title>
+		<Dates>1998-2006</Dates>
+		<Experience>
+			<Accountibility>Built and supported websites for various loyalty accounts using Cold Fusion, Oracle PL/SQL and Unix shell scripting.</Accountibility>
+			<Accountibility>Engineered the HP2000 system for the Harvest Partners loyalty account</Accountibility>
+			<Accountibility>Applications included transactions, promotions, redemptions, enrollment, exports/imports, correspondence, and quarterly statements.</Accountibility>
+		</Experience>
+	</job>
+</Jobs>

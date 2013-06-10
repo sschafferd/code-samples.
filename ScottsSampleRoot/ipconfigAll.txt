@@ -1,0 +1,91 @@
+http://10.0.0.12:8500/ScottsSampleRoot/index.cfm
+
+
+Microsoft Windows [Version 6.2.9200]
+(c) 2012 Microsoft Corporation. All rights reserved.
+
+C:\Users\Scott>ipconfig/all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : home-laptop
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : hsd1.mn.comcast.net.
+
+Wireless LAN adapter Local Area Connection* 11:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : BA-76-3F-29-CA-F7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : hsd1.mn.comcast.net.
+   Description . . . . . . . . . . . : Broadcom 802.11n Network Adapter
+   Physical Address. . . . . . . . . : B8-76-3F-29-CA-F7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::68ef:1b63:167a:18e7%13(Preferred)
+IPv4 Address. . . . . . . . . . . : 10.0.0.11(Preferred)
+Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Friday, June 7, 2013 12:00:53 AM
+   Lease Expires . . . . . . . . . . : Sunday, June 16, 2013 11:42:29 PM
+Default Gateway . . . . . . . . . : 10.0.0.1
+   DHCP Server . . . . . . . . . . . : 10.0.0.1
+   DHCPv6 IAID . . . . . . . . . . . : 325113881
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-18-B8-7C-27-B8-88-E3-BC-D5-7F
+
+DNS Servers . . . . . . . . . . . : 75.75.76.76
+                                    75.75.75.75
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : WDS001
+   Description . . . . . . . . . . . : Broadcom NetLink (TM) Gigabit Ethernet
+   Physical Address. . . . . . . . . : B8-88-E3-BC-D5-7F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.hsd1.mn.comcast.net.:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : hsd1.mn.comcast.net.
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft 6to4 Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:0:5ef5:79fb:da:3c2e:b3ee:682e(Prefer
+red)
+   Link-local IPv6 Address . . . . . : fe80::da:3c2e:b3ee:682e%17(Preferred)
+   Default Gateway . . . . . . . . . : ::
+   DHCPv6 IAID . . . . . . . . . . . : 536870912
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-18-B8-7C-27-B8-88-E3-BC-D5-7F
+
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+
+C:\Users\Scott>
